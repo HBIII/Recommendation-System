@@ -20,8 +20,8 @@ Built 3 different types of recommendation system to predict the ratings/stars fo
 
 I used RMSE to check the accuracy of my recommendation systems.
 
-Item-based CF recommendation system: 1.05
-Model-based recommendation system: 0.99
+Item-based CF recommendation system: 1.05  
+Model-based recommendation system: 0.99  
 Hybrid recommendation system: 0.98
 
 
