@@ -18,6 +18,9 @@ Built 3 different types of recommendation system to predict the ratings/stars fo
 
       ***final score*** = **𝛼 × score**<sub>𝑖𝑡𝑒𝑚_𝑏𝑎𝑠𝑒𝑑</sub>   + **(1−𝛼) × 𝑠𝑐𝑜𝑟𝑒**<sub>𝑚𝑜𝑑𝑒𝑙_𝑏𝑎𝑠𝑒𝑑</sub>
 
+Link to Data files:
+https://drive.google.com/open?id=1tRj-90Nr7hfiVasEwkL4pEWq7PmNcO2o
+
 I used RMSE to check the accuracy of my recommendation systems.
 
 <pre>
