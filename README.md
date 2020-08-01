@@ -2,7 +2,7 @@
 
 ## Overview
 
-Built 3 different types of recommendation system to predict the ratings/stars for given user ids and business ids. Used the validation dataset to evaluate the accuracy of recommendation systems.
+Built 3 different types of recommendation system to predict the ratings/stars for given user ids and item ids. Used the validation dataset to evaluate the accuracy of recommendation systems.
 
 1)	**Item-based CF recommendation system**
 
